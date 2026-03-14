@@ -1,11 +1,11 @@
 # Credit-Card-Insights-
-Power BI Project
+## Power BI Project
 
 This project analyzes credit card transaction data to identify customer spending patterns, revenue trends, and transaction behavior. An interactive dashboard was created to help stakeholders monitor financial performance and customer activity.
 
-Tools Covered : Advanced Excel, Power BI, Power Query
+## Tools Covered : Advanced Excel, Power BI, Power Query
 
-Key Performance Indicators (KPIs):
+## Key Performance Indicators (KPIs):
 
 • Total Revenue
 
@@ -32,7 +32,7 @@ Key Performance Indicators (KPIs):
 • Card wise Total Clients
 
 
-Dashboard Visualizations:
+## Dashboard Visualizations:
 
 • Cards
 
@@ -51,6 +51,10 @@ Dashboard Visualizations:
 • Funnel
 
 
-Interactive Features:
+## Interactive Features:
 
 • Slicers
+
+## Dashboard Preview
+
+![Dashboard Screenshot](Credit_Card_Dashboard.JPG)

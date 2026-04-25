@@ -55,6 +55,6 @@ This project analyzes credit card transaction data to identify customer spending
 
 • Slicers
 
-## Dashboard Preview
+## Dashboard Preview:
 
 ![Dashboard Screenshot](Credit_Card_Dashboard.JPG)

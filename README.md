@@ -57,4 +57,4 @@ This project analyzes credit card transaction data to identify customer spending
 
 ## Dashboard Preview:
 
-![Dashboard Screenshot](Credit_Card_Dashboard.JPG)
+![Dashboard Screenshot](HR Metrics.JPG)
